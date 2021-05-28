@@ -1,0 +1,133 @@
+LABELS
+
+SEPARATOR TAB
+
+DATA
+
+ShGe.1120.00001	Shigella flexneri 2a str. 2457T
+ShGe.1120.00002	Shigella flexneri 5 str. 8401
+ShGe.1120.00003	Shigella flexneri 2003036
+ShGe.1120.00004	Shigella flexneri Shi06HN006
+ShGe.1120.00005	Shigella flexneri  NCTC1
+ShGe.1120.00006	Shigella boydii strain ATCC 9210
+ShGe.1120.00008	Shigella sonnei strain 2015AM-1099
+ShGe.1120.00009	Shigella flexneri strain FC906
+ShGe.1120.00010	Shigella boydii strain 54-1621
+ShGe.1120.00011	Shigella boydii strain 59-2708
+ShGe.1120.00012	Shigella flexneri strain 98-3193
+ShGe.1120.00013	Shigella dysenteriae strain CFSAN010954
+ShGe.1120.00014	Shigella dysenteriae strain ATCC 9751
+ShGe.1120.00015	Shigella flexneri strain SFL1520
+ShGe.1120.00016	Shigella sonnei strain FC1428
+ShGe.1120.00017	Shigella sonnei strain KCCM 41282
+ShGe.1120.00018	Shigella sonnei strain AR-0426
+ShGe.1120.00020	Shigella flexneri 2a str. 301
+ShGe.1120.00021	Shigella boydii Sb227
+ShGe.1120.00022	Shigella dysenteriae 1617
+ShGe.1120.00023	Shigella flexneri strain FDAARGOS_74
+ShGe.1120.00024	Shigella flexneri G1663
+ShGe.1120.00025	Shigella sonnei strain 2015C-3794
+ShGe.1120.00026	Shigella sonnei strain 2015C-3566
+ShGe.1120.00027	Shigella dysenteriae strain E670/74
+ShGe.1120.00028	Shigella flexneri strain 89-141
+ShGe.1120.00029	Shigella boydii strain NCTC 9850
+ShGe.1120.00030	Shigella flexneri strain 04-3145
+ShGe.1120.00031	Shigella dysenteriae strain 2017C-4522
+ShGe.1120.00032	Shigella boydii strain 59-248
+ShGe.1120.00033	Shigella flexneri strain 64-5500
+ShGe.1120.00034	Shigella boydii strain 83-578
+ShGe.1120.00035	Shigella dysenteriae strain ATCC 13313
+ShGe.1120.00036	Shigella dysenteriae strain 07-3308
+ShGe.1120.00037	Shigella dysenteriae strain 53-3937
+ShGe.1120.00038	Shigella dysenteriae strain 08-3380
+ShGe.1120.00039	Shigella dysenteriae strain NCTC 9718
+ShGe.1120.00040	Shigella dysenteriae strain 80-547
+ShGe.1120.00041	Shigella dysenteriae strain CFSAN010956
+ShGe.1120.00042	Shigella dysenteriae strain ATCC 12037
+ShGe.1120.00043	Shigella boydii strain ATCC 35964
+ShGe.1120.00044	Shigella dysenteriae strain ATCC 12039
+ShGe.1120.00045	Shigella dysenteriae strain ATCC 49346
+ShGe.1120.00046	Shigella dysenteriae strain ATCC 49347
+ShGe.1120.00047	Shigella dysenteriae strain ATCC 9752
+ShGe.1120.00048	Shigella boydii strain ATCC 49812
+ShGe.1120.00049	Shigella dysenteriae strain ATCC 9753
+ShGe.1120.00050	Shigella dysenteriae strain ATCC 9754
+ShGe.1120.00051	Shigella flexneri strain 61-4982
+ShGe.1120.00052	Shigella flexneri strain 74-1170
+ShGe.1120.00053	Shigella boydii strain ATCC BAA-1247
+ShGe.1120.00054	Shigella boydii strain NCTC 9353
+ShGe.1120.00055	Shigella flexneri strain NCTC 9728
+ShGe.1120.00056	Shigella boydii strain NCTC 9733
+ShGe.1120.00057	Shigella sonnei strain ATCC 29930
+ShGe.1120.00058	Shigella sonnei strain 866
+ShGe.1120.00059	Shigella flexneri strain 2016AM-0877
+ShGe.1120.00060	Shigella flexneri 5a str. M90T
+ShGe.1120.00061	Shigella boydii strain KCCM 41690
+ShGe.1120.00062	Shigella flexneri strain 5908.2
+ShGe.1120.00063	Shigella sonnei strain 6904.27
+ShGe.1120.00064	Shigella sonnei strain 6607.69
+ShGe.1120.00065	Shigella dysenteriae strain 79-8006
+ShGe.1120.00066	Shigella sonnei strain 3123885
+ShGe.1120.00067	Shigella sonnei strain 0401952027
+ShGe.1120.00068	Shigella sonnei strain 09163633
+ShGe.1120.00069	Shigella sonnei strain 19.1125.3493
+ShGe.1120.00070	Shigella sonnei strain 0401930105
+ShGe.1120.00071	Shigella sonnei strain 19.0821.3486
+ShGe.1120.00072	Shigella sonnei strain 19.0820.1561
+ShGe.1120.00073	Shigella sonnei strain 7111.69
+ShGe.1120.00074	Shigella sonnei strain 1205.3131
+ShGe.1120.00075	Shigella sonnei strain L4094
+ShGe.1120.00076	Shigella boydii strain 600080
+ShGe.1120.00077	Shigella boydii strain 602068
+ShGe.1120.00078	Shigella dysenteriae Sd197
+ShGe.1120.00079	Shigella flexneri 2a strain 981
+ShGe.1120.00080	Shigella sonnei strain 2015C-3807
+ShGe.1120.00081	Shigella flexneri 4c strain 1602
+ShGe.1120.00082	Shigella flexneri 4c strain 0702
+ShGe.1120.00083	Shigella flexneri 1a strain 0439
+ShGe.1120.00084	Shigella flexneri 1a strain 0670
+ShGe.1120.00085	Shigella flexneri 1c strain Y394
+ShGe.1120.00086	Shigella boydii strain ATCC 8700
+ShGe.1120.00087	Shigella dysenteriae strain 69-3818
+ShGe.1120.00088	Shigella flexneri 2a strain ATCC 29903
+ShGe.1120.00089	Shigella sonnei strain AR_0030
+ShGe.1120.00091	Shigella flexneri Y strain PE577
+ShGe.1120.00092	Shigella flexneri strain AR-0425
+ShGe.1120.00093	Shigella flexneri strain AR-0424
+ShGe.1120.00094	Shigella flexneri strain AR-0423
+ShGe.1120.00095	Shigella flexneri strain 2013C-3749
+ShGe.1120.00096	Shigella flexneri strain FDAARGOS_691
+ShGe.1120.00097	Shigella boydii strain 600690
+ShGe.1120.00098	Shigella sonnei strain UKMCC_1015
+ShGe.1120.00099	Shigella dysenteriae strain HNCMB 20080
+ShGe.1120.00100	Shigella flexneri strain AUSMDU00008355 
+ShGe.1120.00101	Shigella flexneri strain AUSMDU00008332 
+ShGe.1120.00102	Shigella flexneri strain AUSMDU00021847 
+ShGe.1120.00103	Shigella flexneri strain AUSMDU00022017 
+ShGe.1120.00104	Shigella flexneri isolate 83 
+ShGe.1120.00105	Shigella sonnei strain FORC_011
+ShGe.1120.00106	Shigella flexneri 4c strain 1205
+ShGe.1120.00107	Shigella sonnei strain FC1653
+ShGe.1120.00108	Shigella dysenteriae strain BU53M1
+ShGe.1120.00109	Shigella flexneri 7b strain 94-3007
+ShGe.1120.00110	Shigella flexneri Y strain 93-3063
+ShGe.1120.00111	Shigella sonnei strain LC1477/18
+ShGe.1120.00112	Shigella flexneri 2a strain AUSMDU00010535
+ShGe.1120.00113	Shigella boydii strain 600657
+ShGe.1120.00114	Shigella sonnei strain AUSMDU00008333 
+ShGe.1120.00115	Shigella sonnei Ss046
+ShGe.1120.00116	Shigella sonnei 53G
+ShGe.1120.00117	Shigella flexneri 1a strain 0228
+ShGe.1120.00118	Shigella sonnei strain FDAARGOS_524
+ShGe.1120.00119	Shigella dysenteriae strain CFSAN029786
+ShGe.1120.00120	Shigella flexneri strain M2901
+ShGe.1120.00121	Shigella sonnei strain 6207
+ShGe.1120.00122	Shigella boydii CDC 3083-94
+ShGe.1120.00123	Shigella flexneri 2002017
+ShGe.1120.00124	Shigella sonnei strain FDAARGOS_90
+ShGe.1120.00125	Shigella sonnei strain FDAARGOS_715
+ShGe.1120.00126	Shigella flexneri strain FDAARGOS_535
+ShGe.1120.00127	Shigella sonnei strain 75/02
+ShGe.1120.00128	Shigella sonnei strain CFSAN030807
+ShGe.1120.00129	Shigella sonnei strain AUSMDU00010534
+ShGe.1120.00130	Shigella sonnei strain 506
