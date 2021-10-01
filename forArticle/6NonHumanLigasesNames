@@ -1,0 +1,13 @@
+IpaH class,location,C-terminal domain type,Protein length,Rat 1,Rat 2,Sheep,Marmot
+Class 6,plasmid,human-host-like,546,➖,➖,➖,WP_109194848.1
+class 10,chromosome,human-host-like,607,➖,➖,QMQ23965.1,WP_103194773.1
+class 11,chromosome,human-host-like,546,EFD4961203.1,➖,➖,WP_103194827.1
+class 12,plasmid,human-host-like,757,➖,➖,➖,WP_158650423.1
+class 13,plasmid,non-human-host,705,"EFD4960425.1
+EFD4960380.1",➖,➖,WP_158650421.1
+class 14,chromosome,non-human-host,564,EFD4961952.1,EFC1641690.1,➖,WP_103194795.1
+class 15,plasmid,non-human-host,600,EFD4961952.1,➖,➖,"WP_005000241.1
+(pseudo)"
+class 16,plasmid,non-human-host,560,EFD4961588.1,EFD4961588.1,QMQ25159.1,WP_103194830.1
+class 17,plasmid,non-human-host,651,EFD4960409.1,EFC1641341.1,"HVV74_22255
+(pseudo)",WP_103194841.1
